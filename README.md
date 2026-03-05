@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Cleber 👋
 
-<!--
-**clebersalvador/clebersalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Management student from Brazil currently transitioning into the technology field.
 
-Here are some ideas to get you started:
+I created this GitHub to document my learning journey as I study programming and develop new technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- Programming logic
+- C language
+- Algorithms
+
+## 📚 Goals
+- Build a strong foundation in programming
+- Develop practical projects
+- Grow my problem-solving skills
+- Start my career in technology
+
+## 📂 Featured repository
+- **algoritmos-e-logica**  
+Exercises and projects from my studies in programming logic and C language.
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/clebergsalvador
